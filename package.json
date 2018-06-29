@@ -1,6 +1,6 @@
 {
-  "name": "font-loader",
-  "version": "0.0.1",
+  "name": "wf-loader",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "test": "node test/test-index.js"

@@ -1,6 +1,4 @@
 var Fontloader = require("../index.js");
-console.log(Fontloader);
-
 Fontloader.registFont(
   "Noto Regular",
   "url(https://fonts.gstatic.com/s/notosansjp/v14/-F62fjtqLzI2JPCgQBnw7HFYyQgP6lY.woff2) format('woff2')",
